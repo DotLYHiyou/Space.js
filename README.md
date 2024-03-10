@@ -6,12 +6,10 @@ Next Generation Javascript. Releasing Spring 2024.
 - Easy Deployments with
    - Vercel
    - Netlify (Currently Broken)
-   - Koyeb
-   - Codesandbox
+   - CodeSandbox
    - Codepen
    - Replit
    - Mavic Cloud
-   - Pretty much (Almost) anywhere.
 
 - Frontend Framework
 - Many Pre-Made plug-and-play Spaces
@@ -26,7 +24,7 @@ Next Generation Javascript. Releasing Spring 2024.
 - (Vercel, blank with no errors) https://spacejs-boilerplate.vercel.app/ 
 - (CodeSandbox, Also only one that shows the "HiBasic" text component) https://fcycgv.csb.app/-
 - (Netlify is Broken) https://spacejstest.netlify.app/
-- 
+- (Koyeb) Won't Work don't even try. 💀
 - File an issue with another deployment for me to add to the examples.
 
 # Updates
