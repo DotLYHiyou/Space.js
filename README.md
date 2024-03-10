@@ -32,7 +32,7 @@ Next Generation Javascript. Releasing Spring 2024.
 
 # Updates
 - 3/10/24 Initial Alpha V.01 Release
- - Repository Set Up
- - Made Examples
- - Made first few major changes.
+  - Repository Set Up
+  - Made Examples
+  - Made first few major changes.
 - More Coming Soon
