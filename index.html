@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Space.js Example</title>
+  <script src="Space.js"></script>
+</head>
+<body>
+  <div id="app-container"></div>
+  <script>
+    // Define a new component using Space.js
+    const MyComponent = {
+      render: function() {
+        return '<p>Hello, Space.js!</p>';
+      }
+    };
+
+    // Render the component to the DOM
+    Space.renderComponent(MyComponent, 'app-container');
+  </script>
+</body>
+</html>
+
