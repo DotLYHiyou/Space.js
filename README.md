@@ -27,7 +27,7 @@ Next Generation Javascript. Releasing Spring 2024.
 - (Netlify, Broken) X https://spacejstest.netlify.app/
 - (Koyeb) XX Won't Work don't even try. 💀
 - (Replit) + Works but try it yourself bruh.
-- (Mavic Cloud) +~ Works but blank. Crabwalktech.netfy.app
+- (Mavic Cloud) +~ Works but blank. https://crabwalktech.netfy.app/
 - File an issue with another deployment for me to add to the examples.
 
 # Updates
