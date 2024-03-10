@@ -7,7 +7,7 @@ Next Generation Javascript. Releasing Spring 2024.
    - Vercel
    - Netlify (Currently Broken)
    - CodeSandbox
-   - Codepen
+   - Codepen (Blocked So can't try right now)
    - Replit
    - Mavic Cloud
 
@@ -17,16 +17,22 @@ Next Generation Javascript. Releasing Spring 2024.
 - And more!!
 
 # Current Capabilitiies
- - It literally just coexists in your project without errors and only shows the "HiBasic" space (On everywhere but CodeSandbox, there is literally nothing on the screens, so go ahead and file an issue if you find anything), but hey! Deployments work!
+ - It literally just coexists in your project without errors and only shows the "HiBasic" space, but hey! Deployments somewhat work!
 
 # Examples
  Alright so most are kind of empty rn but here.
-- (Vercel, blank with no errors) https://spacejs-boilerplate.vercel.app/ 
-- (CodeSandbox, Also only one that shows the "HiBasic" text component) https://fcycgv.csb.app/-
-- (Netlify is Broken) https://spacejstest.netlify.app/
-- (Koyeb) Won't Work don't even try. 💀
+ + = Good X = Bad XX = Extra Bad +~ = Somewhat works
+- (Vercel, works) + https://spacejs-boilerplate.vercel.app/ 
+- (CodeSandbox, works) + https://fcycgv.csb.app/-
+- (Netlify, Broken) X https://spacejstest.netlify.app/
+- (Koyeb) XX Won't Work don't even try. 💀
+- (Replit) + Works but try it yourself bruh.
+- (Mavic Cloud) +~ Works but blank.
 - File an issue with another deployment for me to add to the examples.
 
 # Updates
 - 3/10/24 Initial Alpha V.01 Release
+ - Repository Set Up
+ - Made Examples
+ - Made first few major changes.
 - More Coming Soon
