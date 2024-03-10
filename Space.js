@@ -32,7 +32,7 @@ const renderComponent = (component, containerId) => {
 
 // Usage of MiniFramework
 // Create a new component
-const MyComponent = Space.createComponent('HiBasic', () => {
+const HiBasic = Space.createComponent('HiBasic', () => {
   return `<div>Hello, Space.js!</div>`;
 });
 
