@@ -7,7 +7,6 @@ Next Generation Javascript. Releasing Spring 2024.
    - Vercel
    - Netlify (Currently Broken)
    - CodeSandbox
-   - Codepen (Blocked So can't try right now)
    - Replit
    - Mavic Cloud
 
@@ -17,15 +16,17 @@ Next Generation Javascript. Releasing Spring 2024.
 - And more!!
 
 # Current Capabilitiies
- - It literally just coexists in your project without errors and only shows the "HiBasic" space, but hey! Deployments somewhat work!
+ - "HiBasic" component shows the text "Hi Space.js"
 
+# CMS functionality 3/11/24
+- You can use headless CMSes like Builder.io, however Builder.io is suggested.
+  
 # Examples
  Alright so most are kind of empty rn but here.
  + = Good X = Bad XX = Extra Bad +~ = Somewhat works
 - (Vercel, works) + https://spacejs-boilerplate.vercel.app/ 
 - (CodeSandbox, works) + https://fcycgv.csb.app/-
 - (Netlify, Broken) X https://spacejstest.netlify.app/
-- (Koyeb) XX Won't Work don't even try. 💀
 - (Replit) + Works but try it yourself bruh.
 - (Mavic Cloud) +~ Works but blank. https://crabwalktech.netfy.app/
 - File an issue with another deployment for me to add to the examples.
@@ -35,4 +36,8 @@ Next Generation Javascript. Releasing Spring 2024.
   - Repository Set Up
   - Made Examples
   - Made first few major changes.
+- 3/11/24 Alpha V.02
+   - Added Builder.io support (React) + Vercel has an example. 
+   - Resolved issue opened previously.
+   - Removed Koyeb, Codepen support.
 - More Coming Soon
