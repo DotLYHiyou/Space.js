@@ -18,12 +18,9 @@ Next Generation Javascript. Releasing Spring 2024.
 # Current Capabilitiies
  - "HiBasic" component shows the text "Hi Space.js"
 
-# CMS functionality 3/11/24
-- You can use headless CMSes like Builder.io, however Builder.io is suggested.
-  
 # Examples
- Alright so most are kind of empty rn but here.
  + = Good X = Bad XX = Extra Bad +~ = Somewhat works
+
 - (Vercel, works) + https://spacejs-boilerplate.vercel.app/ 
 - (CodeSandbox, works) + https://fcycgv.csb.app/-
 - (Netlify, Broken) X https://spacejstest.netlify.app/
@@ -40,4 +37,7 @@ Next Generation Javascript. Releasing Spring 2024.
    - Added Builder.io support (React) + Vercel has an example. 
    - Resolved issue opened previously.
    - Removed Koyeb, Codepen support.
+- 3/12/24 Alpha V.03
+   - Removed Builder.io support, SDK never worked anyway.
+   - Deleted builderio.js to get rid of builder.io, however you can add head-less CMSes by forking the project. File an issue when you find a situation that works.
 - More Coming Soon
